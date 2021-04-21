@@ -122,3 +122,4 @@ The application's service endpoint can be tested using cURL or python code from 
 !curl -X POST -H "Content-Type: application/json" --data '{"data": "hello world"}' http://rhods-project.apps.cluster/prediction
 ```
 
+
